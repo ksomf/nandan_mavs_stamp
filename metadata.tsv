@@ -1,0 +1,10 @@
+rep	condition	library	R1	R2	sample_id	matching_FL	matching_C-term	matching_CTRL
+A	CTRL	RNA	received/soapnuke/clean/A_CTRL_RNA/A_CTRL_RNA_1.fq.gz	received/soapnuke/clean/A_CTRL_RNA/A_CTRL_RNA_2.fq.gz	S0	S1	S7	S0
+A	FL	RNA	received/soapnuke/clean/A_FL_RNA/A_FL_RNA_1.fq.gz	received/soapnuke/clean/A_FL_RNA/A_FL_RNA_2.fq.gz	S1	S1	S7	S0
+C	FL	RNA	received/soapnuke/clean/C_FL_RNA/C_FL_RNA_1.fq.gz	received/soapnuke/clean/C_FL_RNA/C_FL_RNA_2.fq.gz	S2	S2	S4	S8
+B	C-term	RNA	received/soapnuke/clean/B_C-term_RNA/B_C-term_RNA_1.fq.gz	received/soapnuke/clean/B_C-term_RNA/B_C-term_RNA_2.fq.gz	S3	S5	S3	S6
+C	C-term	RNA	received/soapnuke/clean/C_C-term_RNA/C_C-term_RNA_1.fq.gz	received/soapnuke/clean/C_C-term_RNA/C_C-term_RNA_2.fq.gz	S4	S2	S4	S8
+B	FL	RNA	received/soapnuke/clean/B_FL_RNA/B_FL_RNA_1.fq.gz	received/soapnuke/clean/B_FL_RNA/B_FL_RNA_2.fq.gz	S5	S5	S3	S6
+B	CTRL	RNA	received/soapnuke/clean/B_CTRL_RNA/B_CTRL_RNA_1.fq.gz	received/soapnuke/clean/B_CTRL_RNA/B_CTRL_RNA_2.fq.gz	S6	S5	S3	S6
+A	C-term	RNA	received/soapnuke/clean/A_C-term_RNA/A_C-term_RNA_1.fq.gz	received/soapnuke/clean/A_C-term_RNA/A_C-term_RNA_2.fq.gz	S7	S1	S7	S0
+C	CTRL	RNA	received/soapnuke/clean/C_CTRL_RNA/C_CTRL_RNA_1.fq.gz	received/soapnuke/clean/C_CTRL_RNA/C_CTRL_RNA_2.fq.gz	S8	S2	S4	S8

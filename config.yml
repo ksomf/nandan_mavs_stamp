@@ -1,0 +1,23 @@
+aligner: star
+assembly: hg38
+complex_comparisons:
+  fl_vs_all:
+  - FL
+  - - C-term
+    - CTRL
+display_order:
+- FL
+- C-term
+- CTRL
+metadata: metadata.tsv
+metadata_files: fastq
+pipeline: stamp
+readlength: 100
+reference_dir: ../reference
+simple_comparisons:
+- - FL
+  - C-term
+- - FL
+  - CTRL
+- - C-term
+  - CTRL
